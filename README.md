@@ -9,9 +9,9 @@ https://t.me/goldyfinancecommunity<br><br>
 🌐Website :<br>
 https://www.goldy.finance<br><br>
 🔥Fair Launch on PancakeSwap :<br>
-https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x24025457ebbbb0c5789a05066a1105ecb9091d58<br><br>
+https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x49b1587b0bbcae3748ba57d7d2c2248c65e17a82<br><br>
 💹Chart :<br>
-https://poocoin.app/tokens/0x24025457ebbbb0c5789a05066a1105ecb9091d58<br><br>
+https://poocoin.app/tokens/0x49b1587b0bbcae3748ba57d7d2c2248c65e17a82<br><br>
 🧸 Goldy.Finance | FairLaunch 🧸
 <br><br>
 Goldy.Finance the new decentralized one that comes to stay. 😍 <br>
